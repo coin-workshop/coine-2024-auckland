@@ -1,0 +1,33 @@
+###########
+# site.title, site.url, site.author.name
+
+title:   'International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE), co-located with AAMAS 2023'
+author:
+  name:  'COINE 2023'
+
+## note: 
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+path: /coine-2023-london
+url:  'http://coin-workshop.github.io/coine-2023-london'
+
+
+########
+# more settings
+
+markdown: kramdown
+theme: minima
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: /:title.html
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+
