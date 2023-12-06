@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Keynote Speaker
+# Accepted Papers
 
 TBD
