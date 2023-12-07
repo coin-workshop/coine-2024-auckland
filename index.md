@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 <!-- * __*<span style="color:blue">Workshop registration link available now </span>*__
@@ -15,7 +14,7 @@ The pervasiveness of "open systems" raises a range of challenges and opportuniti
 
 The COINE workshop (see [COIN Series Website](https://www2.pcs.usp.br/~coin/){:target="_blank"}) is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences and produced 16 volumes of post-proceedings in Springer's Lecture Notes in Artificial Intelligence (see [COIN Series Proceedings](https://www2.pcs.usp.br/~coin/coin_springer.html){:target="_blank"}).
 
-This edition of COINE will be hosted by [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz){:target="_blank"}, one of the 11 areas of interest for AAMAS. This workshop complements the AAMAS main program by allowing a more relaxed and focused discussion of MAS from a social perspective. Previous editions of COINE have proven to foster collaboration among researchers in the relevant topics.
+This COINE edition will be hosted by [AAMAS 2024 (The 23rd International Conference on Autonomous Agents and Multi-Agent Systems)](https://www.aamas2024-conference.auckland.ac.nz){:target="_blank"}, which will take place in Auckland, New Zealand on May 6-10, 2024. This workshop is one of the 11 areas of interest for AAMAS. It complements the AAMAS main program by allowing a more relaxed and focused discussion of MAS from a social perspective. Previous editions of COINE have proven to foster collaboration among researchers in the relevant topics.
 
 # Important Dates
 - **Submission deadline: February 5, 2024**

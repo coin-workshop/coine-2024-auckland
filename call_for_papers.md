@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 * __*<span style="color:blue">Paper submission deadline February 5, 2024</span>*__

@@ -1,16 +1,22 @@
+remote_theme: 'jekyll/minima'
+
+## Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      title: 'COINE 2024'
+
 ## General
-title: 'International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE), co-located with AAMAS 2024'
+title: 'International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE)'
 email: coineaamas2024@easychair.org
 description: >-
-baseurl: ''
 url: 'https://coin-workshop.github.io/coine-2024-auckland'
-
-author:
-  name: COINE2024
-  email: 'coineaamas2024@easychair.org'
+baseurl: ''
 
 markdown: kramdown
-remote_theme: 'jekyll/minima'
 
 sass:
   sass_dir: assets/css
