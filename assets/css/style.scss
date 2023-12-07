@@ -175,13 +175,11 @@ table {
 
 .masthead {
   padding-top:    1rem;
-  /* padding-bottom: 1rem; */
-  /* margin-bottom: 3rem; */
 
  .masthead-title {
     padding: 5px;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 1rem;
     color: $masthead-color;
   
     a {
@@ -190,7 +188,7 @@ table {
     
     small {
       color: $masthead-small-color;
-      font-size: 75%;
+      font-size: 85%;
       font-weight: 300;
       letter-spacing: 0;
     }

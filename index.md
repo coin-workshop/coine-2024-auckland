@@ -18,8 +18,8 @@ The COINE workshop (see [COIN Series Website](https://www2.pcs.usp.br/~coin/){:t
 This edition of COINE will be hosted by [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz){:target="_blank"}, one of the 11 areas of interest for AAMAS. This workshop complements the AAMAS main program by allowing a more relaxed and focused discussion of MAS from a social perspective. Previous editions of COINE have proven to foster collaboration among researchers in the relevant topics.
 
 # Important Dates
-- Submission deadline: February 5, 2024
+- **Submission deadline: February 5, 2024**
 - Authors notification: March 4, 2024
 - Camera-ready deadline: March 25, 2024
-- COINE 2024 Workshop: May 6 or 7 2024no
+- COINE 2024 Workshop: May 6 or 7 2024
 
