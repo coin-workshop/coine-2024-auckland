@@ -9,11 +9,11 @@
 * **Submission deadline: February 5, 2024**
 * Authors Notification: March 4, 2024
 * Camera-ready: March 25, 2024
-* COINE 2024 Workshop: May 6-7, 2024
+* COINE 2024 Workshop: May 6 or 7, 2024 (TBD)
 * Preparation of post-proceedings (Springer LNAI): 2nd half of 2024
 
 ## About COINE
-The pervasiveness of "open systems" raises a range of challenges and opportunities for developing technologies in the area of autonomous agents and multi-agent systems (MAS). In open MAS, artificial and human autonomous agents, their modes of interaction and the pursued goal of the system may change over time. Additionally, the autonomy of the agents, which can be influenced and amplified by coordination techniques, can work against the effectiveness of the system. The success of these systems relies on effective governance to maintain an equilibrium between the autonomy of the (artificial and human) agents and the predictability of the system. Hence, there is a need for methods, techniques, mechanisms and tools that are able to balance the equilibrium between these two forces to make the system mode effective in attaining its purposeful goals.
+The pervasiveness of "open systems" raises a range of challenges and opportunities for developing technologies in the area of autonomous agents and multi-agent systems (MAS). In open MAS, artificial and human autonomous agents, their modes of interaction and the pursued goal of the system may change over time. Additionally, the agents' autonomy, which can be influenced and amplified by coordination techniques, can work against the system's effectiveness. The success of these systems relies on effective governance to maintain an equilibrium between the agents' (artificial and human) autonomy and the predictability of the system. Hence, there is a need for methods, techniques, mechanisms and tools that can balance the equilibrium between these two forces to make the system mode effective in attaining its purposeful goals.
 
 Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open MAS. The goal of the workshop is to bring together researchers in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative MAS, artificial or electronic institutions, norm/policy-aware and ethical agents.
 
