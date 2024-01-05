@@ -26,6 +26,7 @@
 - Marina de Vos (University of Bath, UK)
 - Matteo Baldoni (University of Torino, Italy)
 - Nicoletta Fornara (Università della Svizzera Italiana, Switzerland)
+- Nirav Ajmeri (University of Bristol, UK)
 - Olivier Boissier (MINES Saint-Étienne, France)
 - Pablo Noriega (IIIA - CSIC, Spain)
 - Peter Lewis (Ontario Tech University, Canada)
