@@ -46,7 +46,7 @@ Papers must be electronically submitted before the submission deadline through t
 
 All contributions will be single-blind peer-reviewed by at least two independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
-Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work.
+Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. Authors of accepted papers will be allowed to present their work online or in-person conditional to they register to the workshop. Presentations will be delivered in the New Zealand Time Zone.
 
 ## Proceedings
 The workshop proceeding including the accepted papers will be available before the conference.
