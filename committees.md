@@ -12,6 +12,7 @@
 ## Programme Committee
 
 - Aishwaryaprajna (University of Exeter, UK)
+- Christopher Frantz (Norwegian University of Science and Technology, Norway)
 - Eric Matson (Purdue University, USA)
 - Frank Dignum (Umeå University, Sweden)
 - Harko Verhagen (Stockholm University, Sweden)
