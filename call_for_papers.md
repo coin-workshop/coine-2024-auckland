@@ -6,7 +6,7 @@
 # Call for Papers
 
 ## Important Dates
-* **Submission deadline: February 5, 2024**
+* **Submission deadline: <span style="color:red; text-decoration: line-through;">February 5, 2024</span> February 12, 2024 AEO**
 * Authors Notification: March 4, 2024
 * Camera-ready: March 25, 2024
 * COINE 2024 Workshop: May 6 or 7, 2024 (TBD)
