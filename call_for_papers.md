@@ -1,13 +1,15 @@
 ---
 ---
 
-* __*<span style="color:blue">Paper submission deadline February 5, 2024</span>*__
+* __*<span style="color:blue; text-decoration: line-through;">Paper submission deadline February 5, 2024</span>*__
+* __*<span style="color:blue; text-decoration: line-through;">Paper submission deadline EXTENDED to February 12, 2024 AOE</span>*__
+* __*<span style="color:red;">Paper submission deadline EXTENDED to February 18, 2024 AOE</span>*__
 
 # Call for Papers
 
 ## Important Dates
-* **Submission deadline: <span style="color:red; text-decoration: line-through;">February 5, 2024</span> February 12, 2024 AEO**
-* Authors Notification: March 4, 2024
+* **Submission deadline: <span style="color:red; text-decoration: line-through;">February 5, 2024</span> <span style="color:red; text-decoration: line-through;">February 12, 2024</span> February 18, 2024 AOE (EXTENDED)**
+* Authors Notification: <span style="color:red; text-decoration: line-through;">March 4, 2024</span> March 7, 2024
 * Camera-ready: March 25, 2024
 * COINE 2024 Workshop: May 6 or 7, 2024 (TBD)
 * Preparation of post-proceedings (Springer LNAI): 2nd half of 2024
