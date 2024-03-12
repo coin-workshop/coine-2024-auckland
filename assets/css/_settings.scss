@@ -1,34 +1,29 @@
 ///////////////////////////////////////
 // css theme variables / settings
 
+$font-family:               "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-$font-family:       "Helvetica Neue", Helvetica, Arial, sans-serif;
+$code-font-family:           Menlo, Monaco, "Courier New", monospace;
 
-$code-font-family:  Menlo, Monaco, "Courier New", monospace;
+$masthead-color:             #505050;
+$masthead-small-color:       #C0C0C0;
 
+$post-title-color:           #303030;
+$post-date-color:            #9a9a9a;
 
-$masthead-color:         #505050;
-$masthead-small-color:   #C0C0C0;
+$body-color:                 #515151;
+$body-background-color:      #fff;
 
-$post-title-color:       #303030;
-$post-date-color:        #9a9a9a;
+$link-color:                 #268bd2;
 
+$headings-color:             #313131;  // h1,h2,h3,h4,h5,h6
 
-$body-color:            #515151;
-$body-background-color: #fff;
+$strong-color:               #303030;  // strong
 
-$link-color:            #268bd2;
+$pre-background-color:       #f9f9f9;  // pre
 
-$headings-color:        #313131;    // h1,h2,h3,h4,h5,h6
-
-$strong-color:          #303030;    // strong
-
-$pre-background-color:  #f9f9f9;    // pre
-
-$blockquote-color:        #7a7a7a;  // blockquote
-$blockquote-border-color: #e5e5e5;
+$blockquote-color:           #7a7a7a;  // blockquote
+$blockquote-border-color:    #e5e5e5;
 
 $table-border-color:         #e5e5e5;
 $table-odd-background-color: #f9f9f9;
-
-
