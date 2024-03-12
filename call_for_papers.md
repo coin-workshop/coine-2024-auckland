@@ -11,7 +11,7 @@
 * **Submission deadline: <span style="color:red; text-decoration: line-through;">February 5, 2024</span> <span style="color:red; text-decoration: line-through;">February 12, 2024</span> February 18, 2024 AOE (EXTENDED)**
 * Authors Notification: <span style="color:red; text-decoration: line-through;">March 4, 2024</span> March 7, 2024
 * Camera-ready: March 25, 2024
-* COINE 2024 Workshop: May 6 or 7, 2024 (TBD)
+* COINE 2024 Workshop: May 7, 2024
 * Preparation of post-proceedings (Springer LNAI): 2nd half of 2024
 
 ## About COINE
@@ -51,6 +51,4 @@ All contributions will be single-blind peer-reviewed by at least two independent
 Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. Authors of accepted papers will be allowed to present their work online or in-person conditional to they register to the workshop. Presentations will be delivered in the New Zealand Time Zone.
 
 ## Proceedings
-The workshop proceeding including the accepted papers will be available before the conference.
-
 Similar to previous COINE workshops, COINE 2024 will publish post-proceedings in Springer’s LNCS series. Authors will be invited to submit a revised and extended version of their papers for consideration to be published in the post-proceedings.
