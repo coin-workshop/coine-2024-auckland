@@ -3,6 +3,8 @@
 
 # Program
 
+<b>IMPORTANT:</b> The schedule times are New Zealand time (UTC+12)
+
 <table id="coine2024-schedule">
   <tbody>
     <tr>
