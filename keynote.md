@@ -1,6 +1,6 @@
 ---
 ---
 
-# Keynote Speaker
+# Keynote
 
-TBD
+To be announced

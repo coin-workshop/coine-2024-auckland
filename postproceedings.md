@@ -2,16 +2,16 @@
 title: Post-Proceedings
 ---
 
-We invite authors of accepted and presented papers and the invited speaker to submit extended papers to a post-proceedings volume in [Springer COINE: International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems book series, LNAI](https://link.springer.com/conference/coin){:target="_blank"} scheduled to be published on early 2025. Revised and extended papers will undergo a peer-review process before publication in the post-proceedings.
+We invite authors of accepted and presented papers and the invited speaker to submit extended papers to a post-proceedings volume in [Springer COINE: International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems book series, LNAI](https://link.springer.com/conference/coin){:target="_blank"} scheduled to be published on 2024. Revised and extended papers will undergo a peer-review process before publication in the post-proceedings.
 
 <p align="center">
   <img src="assets/img/lnai-logo.png" />
 </p>
 
 ## Important Dates
-* Submission deadline: TBD
-* Authors notification: TBD
-* Final version: TBD
+* **Submission deadline: July 15, 2024 AOE**
+* Authors notification: August 15, 2024 AOE
+* Camera-ready version: September 15, 2024 AOE
 
 ## Format Instructions
 Submissions are **limited to 16 pages excluding references** formatted in **LaTeX or MS Word** according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}. Springer's LNCS proceedings LaTeX template is available in [Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg){:target="_blank"}.
@@ -25,6 +25,4 @@ If the authors are interested in Open Access or Open Choice, please refer to [Op
 Authors must conform to the [Springer Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct){:target="_blank"}.
 
 ## How to Submit
-The PDF version of your extended paper must be electronically submitted before the submission deadline through EasyChair system available at TBD
-
-<!-- [https://easychair.org/conferences/?conf=](https://easychair.org/conferences/?conf=){:target="_blank"}. -->
+The PDF version of your extended paper must be electronically updated before the submission deadline through EasyChair system available at [https://easychair.org/conferences/?conf=coineaamas2024](https://easychair.org/conferences/?conf=coineaamas2024){:target="_blank"}.
