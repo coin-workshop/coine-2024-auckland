@@ -1,8 +1,8 @@
 ---
 ---
 
-<!-- * __*<span style="color:blue">Workshop registration link available now </span>*__
-* __*<span style="color:blue">Schedule is avaible now </span>*__ -->
+* __*<span style="color:blue">Program is avaible now</span>*__
+* __*<span style="color:blue">Workshop registration available <a href="https://www.aamas2024-conference.auckland.ac.nz/registration/" target="_blank">HERE</a></span>*__
 * __*<span style="color:blue">Notifications sent out on March 11, 2024 </span>*__
 * __*<span style="color:blue; text-decoration: line-through;">Paper submission deadline February 5, 2024</span>*__
 * __*<span style="color:blue; text-decoration: line-through;">Paper submission deadline EXTENDED to February 12, 2024 AOE</span>*__
