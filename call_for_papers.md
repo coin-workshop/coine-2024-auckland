@@ -1,4 +1,5 @@
 ---
+title: Call for Papers
 ---
 
 * __*<span style="color:blue; text-decoration: line-through;">Paper submission deadline February 5, 2024</span>*__

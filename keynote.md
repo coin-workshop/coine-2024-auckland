@@ -1,9 +1,10 @@
 ---
+title: Keynote
 ---
 
 # Keynote
 
-![image](assets/img/nardine_photo.png){: width="30%" style="margin: 1em; float: left"}
+<img width="30%" style="margin: 1em; float: left" src="assets/img/nardine_photo.png" />
 
 ### Value Aware Multiagent Systems
 

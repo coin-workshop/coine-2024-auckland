@@ -2,6 +2,8 @@
 title: Post-Proceedings
 ---
 
+# Post-Proceedings
+
 We invite authors of accepted and presented papers and the invited speaker to submit extended papers to a post-proceedings volume in [Springer COINE: International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems book series, LNAI](https://link.springer.com/conference/coin){:target="_blank"} scheduled to be published on 2024. Revised and extended papers will undergo a peer-review process before publication in the post-proceedings.
 
 <p align="center">
@@ -18,7 +20,7 @@ Submissions are **limited to 16 pages excluding references** formatted in **LaTe
 
 Authors are encouraged to include their [ORCIDs](https://goo.gl/hbsa4D){:target="_blank"} in their papers. Springer offers the inclusion of [embedded videos](http://www.springer.com/gp/computer-science/lncs/embedded-videos/15066970){:target="_blank"} in proceedings papers.
 
-The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign the pre-filled [License-to-Publish form](assets/doc/SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx){:target="_blank"}. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+The corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign the pre-filled <a href="assets/doc/SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx" target="_blank">License-to-Publish form</a>. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
 If the authors are interested in Open Access or Open Choice, please refer to [Open Access Publishing in Springer Computer Proceedings](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings){:target="_blank"} webpage for prices and additional information. An invoicing address and the CC-BY License-to-Publish agreement must be submitted together with the other files for publication.
 
