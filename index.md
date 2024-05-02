@@ -1,6 +1,7 @@
 ---
 ---
 
+* __*<span style="color:blue">Location:</span> <span style="color:red">Crystal Room 1</span> <span style="color:blue">(except for the afternoon Keynote :</span> <span style="color:red">Crystal Room 2</span><span style="color:blue">)</span>*__
 * __*<span style="color:blue">Program is now available <a href="technical_programme.html">HERE</a></span>*__
 * __*<span style="color:blue">Workshop registration available <a href="https://www.aamas2024-conference.auckland.ac.nz/registration/" target="_blank">HERE</a></span>*__
 * __*<span style="color:blue">Notifications sent out on March 11, 2024 </span>*__

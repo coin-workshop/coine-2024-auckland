@@ -6,6 +6,8 @@ title: Program
 
 <b>IMPORTANT:</b> The schedule times are New Zealand time (UTC+12)
 
+## Location : <span style="color:red">Crystal Room 1</span> (except for the afternoon Keynote : <span style="color:red">Crystal Room 2</span>)
+
 <table id="coine2024-schedule">
   <tbody>
     <tr>
@@ -86,7 +88,7 @@ title: Program
     </tr>
     <tr>
       <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>16h30 - 17h25</b></td>
-      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Joint Keynote with <a href="https://sites.google.com/view/cmas24/home" target="_blank">C-MAS 2024</a></b><br/><b><a href="https://sites.google.com/view/cmas24/keynote" target="_blank">What do people really want?</a></b><br/><i>Toby Walsh</i></td>
+      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Joint Keynote with <a href="https://sites.google.com/view/cmas24/home" target="_blank">C-MAS 2024</a> at <span style="color:red">Crystal Room 2</span></b><br/><b><a href="https://sites.google.com/view/cmas24/keynote" target="_blank">What do people really want?</a></b><br/><i>Toby Walsh</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">17h25 - 17h55</td>
