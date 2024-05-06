@@ -95,7 +95,7 @@ title: Program
       <td align="left" valign="top"><b>Future of COINE : Discussion</b></td>
     </tr>
     <tr>
-      <td align="left" valign="top">17h25 - 18h00</td>
+      <td align="left" valign="top">17h55 - 18h00</td>
       <td align="left" valign="top">Closing</td>
     </tr>
   </tbody>
