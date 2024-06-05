@@ -36,7 +36,7 @@ title: Program
     </tr>
     <tr>
       <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>10h30 - 11h25</b></td>
-      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Keynote</b><br/><b><a href="keynote.html">Value Aware Multiagent Systems</a></b><br/><i>Nardine Osman</i></td>
+      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Keynote</b><br/><b><a href="keynote.html">Value Aware Multiagent Systems</a></b> [<a href="https://www.youtube.com/watch?v=3F2FOpBfXDE&ab_channel=COINEWorkshop" target="_blank">Video</a>]<br/><i>Nardine Osman</i></td>
     </tr>
     <tr>
       <td style="background-color: darkgray;" align="left" valign="top"><b>11h25 - 12h40</b></td>
