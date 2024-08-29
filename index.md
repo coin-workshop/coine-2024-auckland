@@ -1,9 +1,10 @@
 ---
 ---
 
+* __*<span style="color:blue">Presentation recordings are now available on the</span> <span style="color:red"><a href="https://www.youtube.com/playlist?list=PLc1ArKjbilA5LkKpC9lcaKAvcFrS8FN-B" target="_blank">COINE YouTube Channel</a></span>*__
 * __*<span style="color:blue">Location:</span> <span style="color:red">Crystal Room 1</span> <span style="color:blue">(except for the afternoon Keynote :</span> <span style="color:red">Crystal Room 2</span><span style="color:blue">)</span>*__
-* __*<span style="color:blue">Program is now available <a href="technical_programme.html">HERE</a></span>*__
-* __*<span style="color:blue">Workshop registration available <a href="https://www.aamas2024-conference.auckland.ac.nz/registration/" target="_blank">HERE</a></span>*__
+* __*<span style="color:blue"><a href="technical_programme.html">Technical Program</a> is now available</span>*__
+* __*<span style="color:blue"><a href="https://www.aamas2024-conference.auckland.ac.nz/registration/" target="_blank">Workshop registration</a> is now available</span>*__
 * __*<span style="color:blue">Notifications sent out on March 11, 2024 </span>*__
 * __*<span style="color:blue; text-decoration: line-through;">Paper submission deadline February 5, 2024</span>*__
 * __*<span style="color:blue; text-decoration: line-through;">Paper submission deadline EXTENDED to February 12, 2024 AOE</span>*__
