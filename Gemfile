@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.1"
+gem "jekyll", "~> 4.4.1"
 gem "minima", "~> 2.5"
 
 group :jekyll_plugins do
@@ -20,6 +20,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # of the gem do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8.1"
 gem "json", "~> 2.7"
 gem "csv", "~> 3.3.0"
+gem "base64", "~> 0.2.0"
+gem "logger", "~> 1.6"

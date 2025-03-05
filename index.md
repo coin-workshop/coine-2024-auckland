@@ -1,6 +1,12 @@
 ---
 ---
 
+---
+
+**The COINE@AAMAS2024 post-proceedings volume has been published and can be accessed via [Springer Link (LNCS 15398)](https://link.springer.com/book/10.1007/978-3-031-82039-7){:target="_blank"}**
+
+---
+
 * __*<span style="color:blue">Presentation recordings are now available on the</span> <span style="color:red"><a href="https://www.youtube.com/playlist?list=PLc1ArKjbilA5LkKpC9lcaKAvcFrS8FN-B" target="_blank">COINE YouTube Channel</a></span>*__
 * __*<span style="color:blue">Location:</span> <span style="color:red">Crystal Room 1</span> <span style="color:blue">(except for the afternoon Keynote :</span> <span style="color:red">Crystal Room 2</span><span style="color:blue">)</span>*__
 * __*<span style="color:blue"><a href="technical_programme.html">Technical Program</a> is now available</span>*__
