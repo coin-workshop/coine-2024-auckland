@@ -3,7 +3,7 @@
 
 ---
 
-**The COINE@AAMAS2024 post-proceedings volume has been published and can be accessed via [Springer Link (LNCS 15398)](https://link.springer.com/book/10.1007/978-3-031-82039-7){:target="_blank"}**
+**The COINE@AAMAS2024 post-proceedings volume has been published and can be accessed via [Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems XVII International Workshop, COINE 2024, Auckland, New Zealand, May 7, 2024, Revised Selected Papers (LNCS 15398)](https://link.springer.com/book/10.1007/978-3-031-82039-7){:target="_blank"}**
 
 ---
 
