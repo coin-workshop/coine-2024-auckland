@@ -2,6 +2,12 @@
 title: Post-Proceedings
 ---
 
+---
+
+**The COINE@AAMAS2024 post-proceedings volume has been published and can be accessed via [Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems XVII International Workshop, COINE 2024, Auckland, New Zealand, May 7, 2024, Revised Selected Papers (LNCS 15398)](https://link.springer.com/book/10.1007/978-3-031-82039-7){:target="_blank"}**
+
+---
+
 # Post-Proceedings
 
 We invite authors of accepted and presented papers and the invited speaker to submit extended papers to a post-proceedings volume in [Springer COINE: International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems book series, LNAI](https://link.springer.com/conference/coin){:target="_blank"} scheduled to be published in 2025.
